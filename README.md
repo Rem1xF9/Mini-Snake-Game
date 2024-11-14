@@ -1,1 +1,1 @@
-# Mini-Snake-Game
+# Mini Snake Game
